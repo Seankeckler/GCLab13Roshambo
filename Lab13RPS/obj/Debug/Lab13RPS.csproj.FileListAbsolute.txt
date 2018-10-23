@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe.config
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.pdb
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.exe
+C:\Users\seank\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.pdb
